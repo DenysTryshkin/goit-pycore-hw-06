@@ -2,6 +2,7 @@ from address_book import AddressBook
 from record import Record
 
 book = AddressBook()
+#Потрібно запитати ментора "Чому VS показує що тут помилка"
 
 
 john_record = Record("John")
